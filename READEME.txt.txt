@@ -1,0 +1,6 @@
+ packages required to rub this API
+
+-nodemon
+-express
+-mongoose
+-validator
